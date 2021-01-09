@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705909173011",
+    "project_id": "dibyopadesh-54f80",
+    "storage_bucket": "dibyopadesh-54f80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705909173011:android:30b46ede65d0ecf62248e6",
+        "android_client_info": {
+          "package_name": "com.dibyopadesh.santosh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705909173011-3f7pk4fc9ob54vv5vn7up9cgn6eo0qi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgsCEXHGniJty6dHYS-S0OAV-i8H4Rnw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705909173011-3f7pk4fc9ob54vv5vn7up9cgn6eo0qi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
